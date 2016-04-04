@@ -1,0 +1,18 @@
+{
+  "name": "connectfour",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "NODE_ENV=test mocha --recursive"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^2.1.1",
+    "require-dir": "^0.3.0",
+    "expect": "^1.6.0",
+    "jsdom": "^6.5.1",
+    "mocha": "^2.2.5",
+    "mocha-jsdom": "^1.0.0"
+  }
+}
